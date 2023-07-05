@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-25T14:57:06 IST" name="Default suite" finished-at="2023-05-25T14:57:22 IST" duration-ms="16389">
+    <groups>
+    </groups>
+    <test started-at="2023-05-25T14:57:06 IST" name="Default test" finished-at="2023-05-25T14:57:22 IST" duration-ms="16389">
+      <class name="day34.SecondTest">
+        <test-method signature="openApp()[pri:10, instance:day34.SecondTest@2a65fe7c]" started-at="2023-05-25T14:57:06 IST" name="openApp" finished-at="2023-05-25T14:57:19 IST" duration-ms="13267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="login()[pri:50, instance:day34.SecondTest@2a65fe7c]" started-at="2023-05-25T14:57:19 IST" name="login" finished-at="2023-05-25T14:57:22 IST" duration-ms="2710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="closeApp()[pri:100, instance:day34.SecondTest@2a65fe7c]" started-at="2023-05-25T14:57:22 IST" name="closeApp" finished-at="2023-05-25T14:57:22 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- day34.SecondTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
